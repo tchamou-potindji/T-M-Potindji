@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Infectious Diseases Epidemiology, Antimicrobial Resistance in LMICs**
 
-- 🌱 I’m currently learning **statistics, and modeling in microbial ecology applied to transmission mechanisms and optimal control of health care associated infections**
+- 🌱 I’m currently learning **statistics and modeling in microbial ecology applied to transmission mechanisms and optimal control of health care associated infections**
 
 - 💬 Ask me anything about **R statistical programming for Clinical and Public Health Microbiology**
 
